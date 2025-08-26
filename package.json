@@ -1,6 +1,6 @@
 {
   "name": "lilp-tuvi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive TypeScript library for calculating Tử vi đẩu số (Vietnamese astrology) charts with lunar calendar support",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
